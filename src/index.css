@@ -1,0 +1,10 @@
+.bg-darkgray{
+  background-color: rgba(95, 100, 105, 1) !important;
+}
+.bg-lightgray{
+  background-color: rgba(130, 135, 140,1) !important;
+}
+
+#root {
+  height: 100vh;
+}
